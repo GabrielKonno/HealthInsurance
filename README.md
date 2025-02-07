@@ -151,8 +151,3 @@ O conjunto de dados utilizado é o [Insurance Dataset](https://github.com/stedy/
 - Visualizações de erros e previsões com `yellowbrick`.
 
 ---
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
